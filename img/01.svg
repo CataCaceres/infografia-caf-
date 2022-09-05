@@ -1,0 +1,232 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600" width="805" height="600">
+	<title>01-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #6e4b2d } 
+		.s2 { fill: #ab9260 } 
+		.t3 { font-size: 10px;fill: #fefefe;font-family: "Arial" } 
+		.t4 { font-size: 10px;fill: #fbf9f7;font-family: "Arial" } 
+		.t5 { font-size: 10px;fill: #ffffff;font-family: "Arial" } 
+		.t6 { font-size: 10px;fill: #fcf9f8;font-family: "Arial" } 
+		.t7 { font-size: 10px;fill: #fbf9f6;font-family: "Arial" } 
+		.t8 { font-size: 10px;fill: #fffdfc;font-family: "Arial" } 
+		.t9 { font-size: 10px;fill: #fdf8f8;font-family: "Arial" } 
+		.t10 { font-size: 10px;fill: #fdfcfc;font-family: "Arial" } 
+		.t11 { font-size: 10px;fill: #fbfbfb;font-family: "Arial" } 
+		.t12 { font-size: 10px;fill: #fefdfd;font-family: "Arial" } 
+		.t13 { font-size: 10px;fill: #fffffe;font-family: "Arial" } 
+		.t14 { font-size: 10px;fill: #faf9f9;font-family: "Arial" } 
+		.t15 { font-size: 10px;fill: #faf8f6;font-family: "Arial" } 
+		.t16 { font-size: 10px;fill: #fefaf7;font-family: "Arial" } 
+		.t17 { font-size: 10px;fill: #fcfbf9;font-family: "Arial" } 
+		.t18 { font-size: 10px;fill: #fcfcfc;font-family: "Arial" } 
+		.t19 { font-size: 10px;fill: #f9f8f6;font-family: "Arial" } 
+		.t20 { font-size: 10px;fill: #faf6f3;font-family: "Arial" } 
+		.t21 { font-size: 10px;fill: #fcf9f7;font-family: "Arial" } 
+		.t22 { font-size: 10px;fill: #fdfdfd;font-family: "Arial" } 
+		.t23 { font-size: 10px;fill: #fcfaf8;font-family: "Arial" } 
+		.s24 { fill: #000000 } 
+		.t25 { font-size: 10px;fill: #fefbf9;font-family: "Arial" } 
+		.t26 { font-size: 10px;fill: #fcf9f6;font-family: "Arial" } 
+		.t27 { font-size: 10px;fill: #f2f2f2;font-family: "Arial" } 
+		.t28 { font-size: 10px;fill: #fefbf8;font-family: "Arial" } 
+		.t29 { font-size: 10px;fill: #faf5f0;font-family: "Arial" } 
+		.t30 { font-size: 10px;fill: #fffbf8;font-family: "Arial" } 
+		.t31 { font-size: 10px;fill: #fdfbfb;font-family: "Arial" } 
+		.t32 { font-size: 10px;fill: #fcf8f8;font-family: "Arial" } 
+	</style>
+	<path id="backgorund" class="s0" d="m0 0h805v600h-805z"/>
+	<rect width="805" height="600" id="Layer 1" style="fill: #000000"/>
+	<g id="viz">
+		<path id="Layer" class="s1" d="m403.5 157c50 0.4 96.2 26.8 121.8 69.7 25.6 42.9 27 96.1 3.5 140.3-23.4 44.1-68.2 72.9-118.1 75.8-49.9 2.8-97.7-20.5-126-61.7l58.4-39.6c14.4 20.7 38.6 32.4 63.8 30.9 25.2-1.6 47.8-16.1 59.7-38.4 11.8-22.4 11.1-49.2-1.7-70.9-12.9-21.8-36.1-35.2-61.4-35.6z"/>
+		<path id="Layer" class="s2" d="m283.6 379.4c-14.4-21.4-22.6-46.4-23.9-72.2-1.3-25.7 4.4-51.4 16.5-74.2 12-22.8 30.1-41.9 52.1-55.3 22.1-13.4 47.4-20.5 73.2-20.7v70.5c-13 0.2-25.7 3.9-36.8 10.6-11.1 6.8-20.2 16.5-26.3 27.9-6 11.5-8.9 24.4-8.3 37.4 0.6 13 4.7 25.6 11.8 36.5z"/>
+		<path id="Layer" class="s1" d="m403.5 84.5c42.9 0.2 84.9 13.2 120.3 37.4 35.5 24.2 63 58.4 78.9 98.3 15.9 39.9 19.5 83.7 10.4 125.6-9.2 42-30.6 80.3-61.7 110l-48.5-51.2c20.8-20 35.2-45.7 41.3-73.9 6.1-28.2 3.7-57.6-7-84.4-10.7-26.8-29.1-49.8-52.9-66-23.8-16.3-52-25.1-80.8-25.3z"/>
+		<path id="Layer" class="s1" d="m550 457.1c-14.1 13.3-29.9 24.5-47 33.5-17.1 9-35.3 15.7-54.2 19.9-18.8 4.1-38.2 5.7-57.5 4.7-19.3-1-38.3-4.6-56.7-10.7l22.6-66.8c12.2 4.1 25 6.5 37.9 7.1 13 0.7 25.9-0.4 38.6-3.2 12.6-2.8 24.8-7.2 36.3-13.3 11.4-6 22-13.5 31.5-22.3z"/>
+		<path id="Layer" class="s1" d="m332.7 503.9c-10.8-3.7-21.4-8.3-31.6-13.7-10.1-5.5-19.9-11.7-29-18.6-9.2-7-17.8-14.7-25.7-23-7.9-8.4-15.2-17.3-21.7-26.8l58.3-39.6c4.4 6.3 9.3 12.3 14.6 17.9 5.3 5.5 11 10.7 17.1 15.3 6.2 4.7 12.7 8.8 19.4 12.5 6.8 3.6 13.9 6.7 21.2 9.2z"/>
+		<path id="Layer" class="s2" d="m223.6 420.1q-3.1-4.6-6-9.4-2.9-4.8-5.5-9.8-2.6-4.9-5-10-2.3-5-4.4-10.2l65.5-26.1q1.4 3.4 2.9 6.7 1.6 3.4 3.3 6.6 1.7 3.3 3.6 6.4 1.9 3.2 3.9 6.2z"/>
+		<path id="Layer" class="s2" d="m201.9 378.8c-5.6-14.3-9.7-29.2-12.1-44.4-2.5-15.2-3.3-30.7-2.5-46.1 0.9-15.4 3.3-30.6 7.4-45.5 4.1-14.8 9.8-29.2 16.9-42.9l62.3 33.1c-4.7 9.1-8.5 18.7-11.2 28.7-2.8 9.9-4.4 20.1-5 30.4-0.5 10.3 0 20.7 1.6 30.9 1.7 10.1 4.4 20.1 8.1 29.7z"/>
+		<path id="Layer" class="s2" d="m212.6 198.2c9.1-17 20.5-32.8 33.8-46.8 13.3-14 28.4-26.1 45-36.1 16.5-9.9 34.4-17.6 53-22.8 18.6-5.2 37.8-7.9 57.1-8v70.5c-12.9 0.1-25.8 1.9-38.3 5.4-12.4 3.5-24.4 8.7-35.5 15.4-11 6.6-21.2 14.8-30.1 24.1-9 9.4-16.6 19.9-22.7 31.3z"/>
+		<path id="Layer" class="s1" d="m403.5 12q7.6 0 15.1 0.4 7.5 0.5 15 1.3 7.5 0.8 15 2 7.5 1.2 14.8 2.8l-15.1 68.9q-5.5-1.2-11.1-2.1-5.6-0.9-11.2-1.5-5.6-0.6-11.2-1-5.7-0.3-11.3-0.3z"/>
+		<path id="Layer" class="s1" d="m465.4 18.9q7.4 1.7 14.6 3.7 7.3 2.1 14.5 4.5 7.1 2.4 14.1 5.2 7.1 2.8 13.9 5.9l-29.6 64q-5.1-2.4-10.4-4.4-5.2-2.1-10.6-3.9-5.3-1.8-10.7-3.3-5.5-1.6-11-2.8z"/>
+		<path id="Layer" class="s1" d="m524.3 39q6.9 3.2 13.5 6.8 6.7 3.5 13.2 7.4 6.5 3.9 12.7 8.1 6.3 4.3 12.3 8.8l-42.7 56.1q-4.5-3.3-9.2-6.5-4.6-3.2-9.5-6.1-4.8-2.9-9.8-5.5-5-2.7-10.1-5.1z"/>
+		<path id="Layer" class="s1" d="m577.6 71.3q6 4.6 11.7 9.5 5.8 4.9 11.3 10.1 5.4 5.2 10.6 10.7 5.2 5.5 10.2 11.2l-53.8 45.6q-3.7-4.3-7.5-8.3-3.9-4.1-8-8-4.1-3.9-8.4-7.5-4.3-3.7-8.8-7.1z"/>
+		<path id="Layer" class="s1" d="m622.6 114.3q4.9 5.8 9.5 11.8 4.5 6 8.8 12.3 4.2 6.2 8.1 12.7 3.9 6.5 7.5 13.1l-62.3 33q-2.7-4.9-5.6-9.8-2.9-4.8-6.1-9.5-3.1-4.6-6.5-9.1-3.5-4.5-7.1-8.8z"/>
+		<path id="Layer" class="s1" d="m657.4 166q3.5 6.7 6.7 13.5 3.2 6.9 5.9 13.9 2.8 7 5.3 14.2 2.4 7.1 4.4 14.4l-67.9 18.8q-1.5-5.4-3.3-10.7-1.9-5.4-3.9-10.6-2.1-5.2-4.5-10.4-2.4-5.1-5-10.1z"/>
+		<path id="Layer" class="s1" d="m680.3 223.9q2 7.3 3.6 14.7 1.6 7.4 2.8 14.8 1.2 7.5 2.1 15 0.8 7.5 1.2 15l-70.4 3.8q-0.3-5.6-0.9-11.2-0.7-5.6-1.6-11.2-0.9-5.6-2.1-11.1-1.2-5.5-2.7-10.9z"/>
+		<path id="Layer" class="s1" d="m690.1 285.4q0.4 7.5 0.4 15.1 0 7.6-0.4 15.1-0.4 7.5-1.2 15-0.8 7.5-2 15l-69.6-11.4q0.9-5.6 1.5-11.2 0.6-5.6 0.9-11.2 0.3-5.7 0.3-11.3 0-5.6-0.3-11.3z"/>
+		<path id="Layer" class="s1" d="m686.5 347.6q-1.2 7.4-2.8 14.8-1.7 7.4-3.7 14.6-2 7.3-4.4 14.5-2.4 7.1-5.2 14.2l-65.5-26.1q2.1-5.3 3.9-10.6 1.8-5.4 3.3-10.8 1.5-5.4 2.7-11 1.2-5.5 2.2-11z"/>
+		<path id="Layer" class="s1" d="m669.7 407.5q-2.8 7-6 13.9-3.2 6.8-6.7 13.5-3.6 6.7-7.5 13.2-3.8 6.4-8.1 12.7l-58.3-39.6q3.1-4.7 6-9.5 2.9-4.8 5.6-9.8 2.6-5 5-10.1 2.4-5.1 4.5-10.4z"/>
+		<path id="Layer" class="s1" d="m640.3 462.4q-4.2 6.3-8.8 12.3-4.6 6-9.5 11.7-4.9 5.8-10.1 11.3-5.2 5.5-10.6 10.7l-48.5-51.2q4.1-3.9 7.9-8 3.9-4.1 7.6-8.4 3.6-4.3 7-8.8 3.5-4.5 6.7-9.1z"/>
+		<path id="Layer" class="s1" d="m599.8 509.8q-5.5 5.1-11.2 10-5.8 4.9-11.8 9.5-6 4.5-12.3 8.8-6.2 4.2-12.7 8.2l-36.3-60.5q4.8-2.9 9.5-6.1 4.6-3.1 9.1-6.5 4.5-3.5 8.8-7.1 4.3-3.6 8.4-7.5z"/>
+		<path id="Layer" class="s1" d="m550.1 547.3q-6.5 3.9-13.1 7.4-6.7 3.5-13.6 6.7-6.8 3.2-13.8 6-7 2.8-14.2 5.2l-22.5-66.8q5.3-1.8 10.6-3.9 5.2-2.1 10.3-4.5 5.1-2.4 10.1-5 5-2.6 9.9-5.5z"/>
+		<path id="Layer" class="s1" d="m493.5 573.2q-7.2 2.4-14.4 4.4-7.3 2-14.7 3.7-7.4 1.6-14.8 2.8-7.5 1.3-15 2.1l-7.6-70.1q5.6-0.6 11.2-1.5 5.5-1 11.1-2.2 5.5-1.2 10.9-2.7 5.4-1.5 10.8-3.3z"/>
+		<path id="Layer" class="s1" d="m432.6 586.4q-7.5 0.8-15 1.2-7.5 0.4-15.1 0.4-7.6 0-15.1-0.4-7.5-0.4-15-1.2l7.6-70.1q5.6 0.6 11.2 0.9 5.7 0.3 11.3 0.3 5.6 0 11.3-0.3 5.6-0.3 11.2-0.9z"/>
+		<path id="Layer" class="s1" d="m370.4 586.2q-7.5-0.8-15-2.1-7.4-1.2-14.8-2.8-7.4-1.7-14.7-3.7-7.2-2-14.4-4.4l22.5-66.8q5.4 1.8 10.8 3.3 5.4 1.5 10.9 2.7 5.6 1.2 11.1 2.2 5.6 0.9 11.2 1.5z"/>
+		<path id="Layer" class="s1" d="m309.6 572.6q-7.2-2.4-14.2-5.2-7-2.8-13.8-6-6.9-3.2-13.6-6.7-6.6-3.5-13.1-7.4l36.3-60.4q4.9 2.9 9.9 5.5 5 2.6 10.1 5 5.1 2.4 10.3 4.5 5.3 2.1 10.6 3.9z"/>
+		<path id="Layer" class="s1" d="m253.2 546.3q-6.5-4-12.7-8.2-6.3-4.3-12.3-8.8-6-4.6-11.8-9.5-5.7-4.9-11.2-10l48.5-51.2q4.1 3.9 8.4 7.5 4.3 3.6 8.8 7.1 4.5 3.4 9.1 6.5 4.7 3.2 9.5 6.1z"/>
+		<path id="Layer" class="s1" d="m203.7 508.4q-5.4-5.2-10.6-10.7-5.2-5.5-10.1-11.3-4.9-5.7-9.5-11.7-4.6-6-8.8-12.3l58.3-39.5q3.2 4.6 6.7 9.1 3.4 4.5 7 8.8 3.7 4.3 7.6 8.4 3.8 4.1 7.9 8z"/>
+		<path id="Layer" class="s2" d="m163.6 460.8q-4.3-6.3-8.1-12.7-3.9-6.5-7.5-13.2-3.5-6.7-6.7-13.5-3.2-6.9-6-13.9l65.5-26.1q2.1 5.3 4.5 10.4 2.4 5.1 5 10.1 2.7 5 5.6 9.8 2.9 4.8 6 9.5z"/>
+		<path id="Layer" class="s2" d="m134.6 405.7q-2.8-7.1-5.2-14.2-2.4-7.2-4.4-14.5-2-7.2-3.7-14.6-1.6-7.4-2.8-14.8l69.5-11.4q1 5.5 2.2 11 1.2 5.6 2.7 11 1.5 5.4 3.3 10.8 1.8 5.3 3.9 10.6z"/>
+		<path id="Layer" class="s2" d="m118.1 345.6q-1.2-7.5-2-15-0.8-7.5-1.2-15-0.4-7.5-0.4-15.1 0-7.6 0.4-15.1l70.4 3.8q-0.3 5.7-0.3 11.3 0 5.6 0.3 11.3 0.3 5.6 0.9 11.2 0.6 5.6 1.5 11.2z"/>
+		<path id="Layer" class="s2" d="m115 283.4q0.4-7.5 1.2-15 0.9-7.5 2.1-15 1.2-7.4 2.8-14.8 1.6-7.4 3.6-14.7l68 18.9q-1.5 5.4-2.7 10.9-1.2 5.5-2.1 11.1-0.9 5.6-1.6 11.2-0.6 5.6-0.9 11.2z"/>
+		<path id="Layer" class="s2" d="m125.3 222q2-7.3 4.4-14.4 2.5-7.2 5.3-14.2 2.7-7 5.9-13.9 3.2-6.8 6.7-13.5l62.3 33q-2.6 5-5 10.1-2.4 5.2-4.5 10.4-2 5.2-3.9 10.6-1.8 5.3-3.3 10.7z"/>
+		<path id="Layer" class="s2" d="m148.5 164.2q3.6-6.6 7.5-13.1 3.9-6.5 8.1-12.7 4.3-6.3 8.8-12.3 4.6-6 9.5-11.8l53.7 45.7q-3.6 4.3-7.1 8.8-3.4 4.5-6.5 9.1-3.2 4.7-6.1 9.5-2.9 4.9-5.6 9.8z"/>
+		<path id="Layer" class="s2" d="m183.6 112.8q5-5.7 10.2-11.2 5.2-5.5 10.6-10.7 5.5-5.2 11.3-10.1 5.7-4.9 11.7-9.5l42.7 56.2q-4.5 3.4-8.8 7.1-4.3 3.6-8.4 7.5-4.1 3.9-8 8-3.8 4-7.5 8.3z"/>
+		<path id="Layer" class="s2" d="m229 70.1q6-4.5 12.3-8.8 6.2-4.2 12.7-8.1 6.5-3.9 13.2-7.4 6.6-3.6 13.5-6.8l29.6 64q-5.1 2.4-10.1 5.1-5 2.6-9.8 5.5-4.9 2.9-9.5 6.1-4.7 3.2-9.2 6.5z"/>
+		<path id="Layer" class="s2" d="m282.5 38.2q6.8-3.1 13.9-5.9 7-2.8 14.1-5.2 7.2-2.4 14.5-4.5 7.2-2 14.6-3.7l15.2 68.9q-5.5 1.2-11 2.8-5.4 1.5-10.7 3.3-5.4 1.8-10.6 3.9-5.3 2-10.4 4.4z"/>
+		<path id="Layer" class="s2" d="m341.6 18.5q7.3-1.6 14.8-2.8 7.5-1.2 15-2 7.5-0.8 15-1.3 7.5-0.4 15.1-0.4v70.5q-5.6 0-11.3 0.3-5.6 0.4-11.2 1-5.6 0.6-11.2 1.5-5.6 0.9-11.1 2.1z"/>
+	</g>
+	<g id="labels">
+		<text id="Arábico" style="transform: matrix(.884,.468,-0.468,.884,496.708,354.473)" >
+			<tspan x="-18.9" y="0" class="t3">Arábico
+</tspan>
+		</text>
+		<text id="Robusta" style="transform: matrix(.884,.468,-0.468,.884,304.544,252.595)" >
+			<tspan x="-20.3" y="0" class="t4">Robusta
+</tspan>
+		</text>
+		<text id="América" style="transform: matrix(.929,-0.37,.37,.929,572.358,236.628)" >
+			<tspan x="-20.6" y="0" class="t5">América
+</tspan>
+		</text>
+		<text id="África" style="transform: matrix(.215,.977,-0.977,.215,437.557,478.872)" >
+			<tspan x="-14.3" y="0" class="t5">África
+</tspan>
+		</text>
+		<text id="Asia" style="transform: matrix(.605,-0.796,.796,.605,295.997,446.713)" >
+			<tspan x="-10.5" y="0" class="t6">Asia
+</tspan>
+		</text>
+		<text id="América" style="transform: matrix(.884,-0.468,.468,.884,244.237,388.433)" >
+			<tspan x="-20.6" y="0" class="t7">América
+</tspan>
+		</text>
+		<text id="África " style="transform: matrix(.999,.054,-0.054,.999,221.299,294.181)" >
+			<tspan x="-15.8" y="0" class="t8">África 
+</tspan>
+		</text>
+		<text id="Asia" style="transform: matrix(.516,.857,-0.857,.516,305.628,146.757)" >
+			<tspan x="-10.5" y="0" class="t9">Asia
+</tspan>
+		</text>
+		<text id="Bolivia" style="transform: matrix(.108,-0.994,.994,.108,430.625,47.989)" >
+			<tspan x="-16.7" y="0" class="t10">Bolivia
+</tspan>
+		</text>
+		<text id="Colombia" style="transform: matrix(.319,-0.948,.948,.319,487.313,60.81)" >
+			<tspan x="-23.5" y="0" class="t11">Colombia
+</tspan>
+		</text>
+		<text id="Costa Rica" style="transform: matrix(.516,-0.857,.857,.516,535.749,87.635)" >
+			<tspan x="-26.4" y="0" class="t12">Costa Rica
+</tspan>
+		</text>
+		<text id="Ecuador" style="transform: matrix(.688,-0.726,.726,.688,579.908,118.529)" >
+			<tspan x="-20.4" y="0" class="t5">Ecuador
+</tspan>
+		</text>
+		<text id="El Salvador" style="transform: matrix(.828,-0.561,.561,.828,614.771,160.91)" >
+			<tspan x="-28.1" y="0" class="t13">El Salvador
+</tspan>
+		</text>
+		<text id="Guatemala" style="transform: matrix(.929,-0.37,.37,.929,639.708,209.793)" >
+			<tspan x="-27.5" y="0" class="t14">Guatemala
+</tspan>
+		</text>
+		<text id="Jamaica" style="transform: matrix(.987,-0.162,.162,.987,653.554,262.895)" >
+			<tspan x="-19.7" y="0" class="t15">Jamaica
+</tspan>
+		</text>
+		<text id="Nicaragua" style="transform: matrix(.999,.054,-0.054,.999,656.661,318.732)" >
+			<tspan x="-25.5" y="0" class="t16">Nicaragua
+</tspan>
+		</text>
+		<text id="Panamá" style="transform: matrix(.964,.268,-0.268,.964,645.931,371.74)" >
+			<tspan x="-20" y="0" class="t17">Panamá
+</tspan>
+		</text>
+		<text id="Perú" style="transform: matrix(.884,.468,-0.468,.884,624.818,422.393)" >
+			<tspan x="-11.1" y="0" class="t5">Perú
+</tspan>
+		</text>
+		<text id="Venezuela" style="transform: matrix(.762,.647,-0.647,.762,593.309,467.323)" >
+			<tspan x="-25.7" y="0" class="t5">Venezuela
+</tspan>
+		</text>
+		<text id="Etiopía" style="transform: matrix(.605,.796,-0.796,.605,552.879,504.429)" >
+			<tspan x="-17.2" y="0" class="t18">Etiopía
+</tspan>
+		</text>
+		<text id="Kenia" style="transform: matrix(.42,.908,-0.908,.42,505.417,531.977)" >
+			<tspan x="-13.7" y="0" class="t19">Kenia
+</tspan>
+		</text>
+		<text id="Mozambique" style="transform: matrix(.215,.977,-0.977,.215,453.142,548.677)" >
+			<tspan x="-31.9" y="0" class="t20">Mozambique
+</tspan>
+		</text>
+		<text id="Tanzania" style="transform: matrix(0,-1,1,0,406.5,553.75)" >
+			<tspan x="-21.8" y="0" class="t21">Tanzania
+</tspan>
+		</text>
+		<text id="Zambia" style="transform: matrix(.215,-0.977,.977,.215,351.858,549.677)" >
+			<tspan x="-19" y="0" class="t22">Zambia
+</tspan>
+		</text>
+		<text id="India" style="transform: matrix(.42,-0.908,.908,.42,299.583,506.977)" >
+			<tspan x="-12.3" y="0" class="t23">India
+</tspan>
+		</text>
+		<path id="Shape 1" class="s24" d="m76 34h50v73h-50z"/>
+		<path id="Shape 2" class="s24" d="m0 0h85v120h-85z"/>
+		<text id="Indonesia" style="transform: matrix(.605,-0.796,.796,.605,252.121,504.429)" >
+			<tspan x="-24.2" y="0" class="t25">Indonesia
+</tspan>
+		</text>
+		<text id="Yemen" style="transform: matrix(.762,-0.647,.647,.762,211.691,467.323)" >
+			<tspan x="-16.6" y="0" class="t11">Yemen
+</tspan>
+		</text>
+		<text id="Brasil" style="transform: matrix(.884,-0.468,.468,.884,180.182,426.393)" >
+			<tspan x="-13.9" y="0" class="t26">Brasil
+</tspan>
+		</text>
+		<text id="Angola" style="transform: matrix(.964,-0.268,.268,.964,159.069,371.74)" >
+			<tspan x="-17.3" y="0" class="t16">Angola
+</tspan>
+		</text>
+		<text id="Camerún" style="transform: matrix(.999,-0.054,.054,.999,149.339,317.732)" >
+			<tspan x="-22.9" y="0" class="t27">Camerún
+</tspan>
+		</text>
+		<text id="Costa de Marfil" style="transform: matrix(.987,.162,-0.162,.987,151.446,262.895)" >
+			<tspan x="-37.6" y="0" class="t28">Costa de Marfil
+</tspan>
+		</text>
+		<text id="Uganda" style="transform: matrix(.929,.37,-0.37,.929,165.292,209.793)" >
+			<tspan x="-19.3" y="0" class="t29">Uganda
+</tspan>
+		</text>
+		<text id="India" style="transform: matrix(.828,.561,-0.561,.828,190.229,160.91)" >
+			<tspan x="-12.3" y="0" class="t30">India
+</tspan>
+		</text>
+		<text id="Java" style="transform: matrix(.688,.726,-0.726,.688,225.092,118.529)" >
+			<tspan x="-10.6" y="0" class="t31">Java
+</tspan>
+		</text>
+		<text id="Sri Lanka" style="transform: matrix(.516,.857,-0.857,.516,268.251,84.635)" >
+			<tspan x="-23.1" y="0" class="t5">Sri Lanka
+</tspan>
+		</text>
+		<text id="Sumantra" style="transform: matrix(.319,.948,-0.948,.319,317.687,60.81)" >
+			<tspan x="-24.5" y="0" class="t32">Sumantra
+</tspan>
+		</text>
+		<text id="Vietman" style="transform: matrix(.108,.994,-0.994,.108,371.088,48.17)" >
+			<tspan x="-20.8" y="0" class="t5">Vietman
+</tspan>
+		</text>
+	</g>
+</svg>
